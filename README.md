@@ -16,7 +16,7 @@ https://www.lammps.org/download/packages/
 Packages with External Libraries · LAMMPS  
 https://www.lammps.org/download/libraries/  
 
-3. Build LAMMPS — LAMMPS documentation  
+Build LAMMPS — LAMMPS documentation  
 https://docs.lammps.org/Build.html  
 
 Open MPI: Open Source High Performance Computing  
