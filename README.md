@@ -24,3 +24,5 @@ https://www.open-mpi.org
 
 FFTW Home Page  
 https://fftw.org  
+  Installation and Customization (FFTW 3.3.11)  
+  https://fftw.org/fftw3_doc/Installation-and-Customization.html
